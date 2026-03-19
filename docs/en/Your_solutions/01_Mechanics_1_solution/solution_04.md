@@ -1,50 +1,82 @@
-# Vector Calculus — Theory + Solution
+# Vector Calculus — Detailed Theory + Solution
 
 ---
 
-# Useful Definitions and Formulas
+# Useful Definitions and Concepts
 
-### 1. Position Vector
+### 1. What is a Vector?
 
-The position of a particle in 2D is:
+A **vector** is a quantity that has:
+- magnitude (length)
+- direction
+
+In 2D space, a vector is written as:
+
+$$
+\vec{r}=x\hat{i}+y\hat{j}
+$$
+
+where:
+- $\hat{i}$ — unit vector along x-axis
+- $\hat{j}$ — unit vector along y-axis
+
+---
+
+### 2. Position Vector
+
+The position of a particle is:
 
 $$
 \vec{r}(t)=x(t)\hat{i}+y(t)\hat{j}
 $$
 
+It tells us **where the object is at time $t$**.
+
 ---
 
-### 2. Velocity Vector
+### 3. Velocity Vector
 
-Velocity is the **first derivative** of position:
+Velocity describes how position changes:
 
 $$
 \vec{v}(t)=\frac{d\vec{r}(t)}{dt}
 $$
 
-This means we differentiate each component:
+This means:
+- direction of motion
+- speed of change
+
+---
+
+### 4. Acceleration Vector
+
+Acceleration describes how velocity changes:
 
 $$
-\vec{v}(t)=\frac{dx}{dt}\hat{i}+\frac{dy}{dt}\hat{j}
+\vec{a}(t)=\frac{d\vec{v}(t)}{dt}
 $$
 
 ---
 
-### 3. Acceleration Vector
-
-Acceleration is the **second derivative** of position (or derivative of velocity):
-
-$$
-\vec{a}(t)=\frac{d\vec{v}(t)}{dt}=\frac{d^2\vec{r}(t)}{dt^2}
-$$
-
----
-
-### 4. Power Rule for Differentiation
+### 5. Power Rule
 
 $$
 \frac{d}{dt}t^n=nt^{n-1}
 $$
+
+---
+
+# Visual Representation (Concept)
+
+- $\vec{r}(t)$ → arrow from origin to point  
+- $\vec{v}(t)$ → tangent to trajectory  
+- $\vec{a}(t)$ → shows how motion changes  
+
+---
+
+
+::contentReference[oaicite:0]{index=0}
+
 
 ---
 
@@ -58,14 +90,26 @@ $$
 
 ---
 
-# Step 1. Find Velocity Vector
+# Step 1. Identify Components
+
+$$
+x(t)=3t^2
+$$
+
+$$
+y(t)=5t-8t^2
+$$
+
+---
+
+# Step 2. Find Velocity Vector
 
 Differentiate each component.
 
 ### X-component:
 
 $$
-\frac{d}{dt}(3t^2)=6t
+\frac{dx}{dt}=6t
 $$
 
 ---
@@ -73,12 +117,12 @@ $$
 ### Y-component:
 
 $$
-\frac{d}{dt}(5t-8t^2)=5-16t
+\frac{dy}{dt}=5-16t
 $$
 
 ---
 
-### Velocity vector:
+### Velocity:
 
 $$
 \vec{v}(t)=6t\hat{i}+(5-16t)\hat{j}
@@ -86,7 +130,7 @@ $$
 
 ---
 
-# Step 2. Find Acceleration Vector
+# Step 3. Find Acceleration Vector
 
 Differentiate velocity.
 
@@ -106,7 +150,7 @@ $$
 
 ---
 
-### Acceleration vector:
+### Acceleration:
 
 $$
 \vec{a}(t)=6\hat{i}-16\hat{j}
@@ -132,8 +176,16 @@ $$
 
 ---
 
-# Comments
+# Comments and Physical Meaning
 
-- Velocity depends on time → motion is **non-uniform**.
-- Acceleration is constant → motion has **constant acceleration**.
-- The trajectory is a **parabolic curve** in the plane.
+- Velocity changes with time → motion is **non-uniform**
+- Acceleration is constant → motion has **uniform acceleration**
+- The object follows a **curved path (parabola)**
+
+---
+
+# Intuition
+
+- $\vec{r}(t)$ → where the object is  
+- $\vec{v}(t)$ → where it is going  
+- $\vec{a}(t)$ → how its motion is changing  
