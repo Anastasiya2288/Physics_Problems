@@ -171,6 +171,7 @@ $$
 \vec{a}(t)=6\hat{i}-16\hat{j}
 $$
 
+![alt text](image-1.png)
 ---
 
 # Comments and Physical Meaning
