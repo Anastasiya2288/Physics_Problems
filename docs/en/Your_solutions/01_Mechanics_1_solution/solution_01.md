@@ -219,3 +219,4 @@ $$
 - Vertical motion is uniformly accelerated due to gravity.
 - The trajectory is a parabola.
 - The motion is symmetric: time to rise = time to fall.
+![alt text](image-2.png)
