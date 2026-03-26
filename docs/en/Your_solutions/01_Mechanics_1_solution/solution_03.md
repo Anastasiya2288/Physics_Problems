@@ -288,3 +288,4 @@ $$
 - The paths intersect geometrically, but **not at the same time**, so no collision.
 - Minimizing $d^2(t)$ avoids dealing with square roots.
 - This is a standard quadratic minimization problem.
+![alt text](image-4.png)
