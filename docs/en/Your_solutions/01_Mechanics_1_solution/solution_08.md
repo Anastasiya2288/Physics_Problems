@@ -118,3 +118,4 @@ $$
 - This acceleration is **very small** compared to gravity $g=9.8\ \text{m/s}^2$
 - That’s why we don’t feel Earth's rotation.
 - It slightly reduces effective weight at the equator.
+![alt text](image-6.png)
