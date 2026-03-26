@@ -276,3 +276,4 @@ $$
 - Motion becomes faster as $t$ increases due to growing velocity components.
 - Acceleration increases in the $y$-direction → trajectory curves more sharply over time.
 - This is a classic example of **non-uniform accelerated motion**.
+![alt text](image-5.png)
