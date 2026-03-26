@@ -170,3 +170,4 @@ $$
 # Conclusion
 
 The projectile achieves **maximum range at $45^\circ$** because this angle maximizes the sine function in the range formula.
+![alt text](image-3.png)
