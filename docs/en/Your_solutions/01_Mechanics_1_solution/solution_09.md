@@ -58,3 +58,4 @@ The tennis ball has greater momentum.
 $$\boxed{p_{\text{fly}}=0.02\text{ kg m/s}}$$
 
 $$\boxed{p_{\text{ball}}=0.06\text{ kg m/s}}$$
+![alt text](image-7.png)
