@@ -213,3 +213,4 @@ ax.set_ylabel('Y')
 ax.set_zlabel('Z')
 
 plt.show()
+![alt text](image-8.png)
