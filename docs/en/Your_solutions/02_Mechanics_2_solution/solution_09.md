@@ -199,36 +199,6 @@ $$
 ---
 
 ## 🧩 Part 5: Numerical Simulation (Python)
-
-```python
-import numpy as np
-import matplotlib.pyplot as plt
-
-# parameters
-m = 1.0
-k = 0.5
-g = 9.81
-v0 = 20
-x0 = 10
-
-gamma = k/m
-
-# time array
-t = np.linspace(0, 5, 500)
-
-# velocity
-v = (v0 + g/gamma)*np.exp(-gamma*t) - g/gamma
-
-# position
-x = x0 + (v0 + g/gamma)/gamma*(1 - np.exp(-gamma*t)) - (g/gamma)*t
-
-# plot
-plt.figure()
-plt.plot(t, x, label="Position x(t)")
-plt.plot(t, v, label="Velocity v(t)")
-plt.xlabel("Time")
-plt.legend()
-plt.grid()
-plt.show()
+![alt text](image-3.png)
 
 
