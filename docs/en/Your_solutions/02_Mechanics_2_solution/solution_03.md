@@ -159,3 +159,4 @@ The speed of the pendulum bob at the lowest point depends only on:
 Mass does **not** affect the result.
 
 ---
+![alt text](image-2.png)
