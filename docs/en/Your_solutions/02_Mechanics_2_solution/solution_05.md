@@ -137,5 +137,4 @@ However:
 
 - Kinetic energy:  
   ❌ Not conserved
-
----
+![alt text](image-6.png)
