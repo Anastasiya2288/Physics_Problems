@@ -237,3 +237,4 @@ P(t)=36t^3+50t-5
 $$
 
 ---
+![alt text](image-4.png)
