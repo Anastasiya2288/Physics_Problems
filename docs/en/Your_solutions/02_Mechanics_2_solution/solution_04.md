@@ -18,14 +18,6 @@ This allows us to find the velocity just before impact.
 
 ### 📌 Conservation of Momentum (collision)
 
-For an **inelastic collision** (objects stick together):
-
-$$
-m_1v_1+m_2v_2=\left(m_1+m_2\right)v_f
-$$
-
-where:
-- $v_f$ — final velocity after collision
 
 ---
 
@@ -134,3 +126,4 @@ $$
 - Because the collision is inelastic, **some energy is lost**, but momentum remains conserved.
 
 ---
+![alt text](image-5.png)
