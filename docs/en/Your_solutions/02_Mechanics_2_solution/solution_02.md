@@ -161,3 +161,5 @@ $$
   $$E\approx197\ \text{J}$$
 
 ---
+
+![alt text](image-1.png)
