@@ -135,3 +135,7 @@ $$v=25\,\text{m/s}$$
 - Wave speed: $$v=25\,\text{m/s}$$
 
 ✔️ All parameters are directly extracted by comparing with the standard wave equation.
+import numpy as np
+import matplotlib.pyplot as plt
+
+![alt text](image.png)
