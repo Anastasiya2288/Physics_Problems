@@ -114,3 +114,4 @@ $$F(0°) = 0 \longrightarrow F(45°) = 7.07\ \text{N} \longrightarrow F(90°) = 
 > **Key insight:** The force depends only on the **component of the wire perpendicular to $\vec{B}$**.
 > A wire at angle $\theta$ behaves as if an effective length $L_\perp = L\sin\theta$ were fully perpendicular to the field.
 > Rotating the wire from $0°$ to $90°$ continuously increases the force from zero to its maximum value $BIL$.
+![alt text](image.png)
