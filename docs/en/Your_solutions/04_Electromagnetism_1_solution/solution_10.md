@@ -6,7 +6,7 @@
 
 - **Magnetic force on a current-carrying wire:**
 $$\vec{F} = I\vec{L} \times \vec{B}$$
-
+---
 - **Magnitude:**
 $$F = BIL\sin\theta$$
 
@@ -15,7 +15,7 @@ where:
 - $L$ — length of the wire (m)
 - $B$ — magnetic field strength (T)
 - $\theta$ — angle between the wire direction and $\vec{B}$
-
+---
 - **Special cases:**
 
 | Angle $\theta$ | $\sin\theta$ | Force |
@@ -23,7 +23,7 @@ where:
 | $90°$ | $1$ | $F = BIL$ (maximum) |
 | $45°$ | $\frac{\sqrt{2}}{2}$ | $F = \frac{\sqrt{2}}{2}BIL$ |
 | $0°$ | $0$ | $F = 0$ (no force) |
-
+---
 - **Physical origin:** Each charge carrier $q$ moving with drift velocity $v_d$ experiences $\vec{F} = q\vec{v}_d \times \vec{B}$; summing over all carriers in the wire gives $F = BIL\sin\theta$.
 
 ---
