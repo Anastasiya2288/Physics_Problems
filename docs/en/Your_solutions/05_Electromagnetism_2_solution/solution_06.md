@@ -309,3 +309,4 @@ $$
 - Both fields are also perpendicular to the direction of propagation.
 - The wave travels in the positive $x$ direction.
 - The wavelength lies in the visible-light range.
+![alt text](image-1.png)
