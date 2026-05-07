@@ -7,16 +7,23 @@
 
 A sinusoidal electromagnetic wave is commonly written as:
 
+$$
+
 E(x,t)=E_0\sin(kx-\omega t)
+
+$$
 
 where:
 
 - $E_0$ — amplitude of the electric field
-- $k$ — wave number
-- $\omega$ — angular frequency
-- $x$ — position
-- $t$ — time
 
+- $k$ — wave number
+
+- $\omega$ — angular frequency
+
+- $x$ — position
+
+- $t$ — time
 ---
 
 ### 2. Direction of Propagation
@@ -32,17 +39,25 @@ For wave equations:
 
 The wave number is related to wavelength by:
 
+$$
+
 k=\frac{2\pi}{\lambda}
+
+$$
 
 Therefore:
 
+$$
+
 \lambda=\frac{2\pi}{k}
+
+$$
 
 where:
 
 - $k$ — wave number
-- $\lambda$ — wavelength
 
+- $\lambda$ — wavelength
 ---
 
 ### 4. Relationship Between Angular Frequency and Wave Speed
