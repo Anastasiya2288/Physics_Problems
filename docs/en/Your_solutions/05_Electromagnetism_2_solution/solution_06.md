@@ -3,7 +3,13 @@
 
 ## Useful Definitions and Formulas
 
-### 1. General Form of an Electromagnetic Wave
+
+
+## 1. General Form of an Electromagnetic Wave
+
+![alt text](image-1.png)
+
+---
 
 A sinusoidal electromagnetic wave is commonly written as:
 
@@ -24,6 +30,7 @@ where:
 - $x$ — position
 
 - $t$ — time
+
 ---
 
 ### 2. Direction of Propagation
@@ -36,7 +43,7 @@ For wave equations:
 ---
 
 ### 3. Wave Number and Wavelength
-
+![alt text](image-3.png)
 The wave number is related to wavelength by:
 
 $$
@@ -92,7 +99,7 @@ where:
 - $E_0$ — electric field amplitude
 - $B_0$ — magnetic field amplitude
 - $c$ — speed of light
-
+![alt text](image-2.png)
 ---
 
 # Step-by-Step Solution
