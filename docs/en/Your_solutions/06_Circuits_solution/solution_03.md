@@ -1,5 +1,5 @@
 # Mixed Circuit — Equivalent Resistance
-![alt text](../../image-r1.png)
+
 ## Useful Definitions and Formulas
 
 ### 1. Equivalent Resistance
@@ -15,7 +15,7 @@ $$
 ---
 
 ## 2. Series Connection
-
+![alt text](image-2.png)
 Resistors are connected in series when the same current flows through all of them.
 
 For resistors in series:
@@ -32,7 +32,7 @@ Important property:
 ---
 
 ## 3. Parallel Connection
-
+![alt text](image-1.png)
 Resistors are connected in parallel when they share the same two nodes.
 
 For resistors in parallel:
@@ -55,7 +55,7 @@ Important property:
 ---
 
 # Step-by-Step Solution
-
+![alt text](../../image-r1.png)
 All resistors have resistance:
 
 $$
