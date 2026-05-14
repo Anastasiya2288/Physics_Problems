@@ -1,5 +1,5 @@
 # Mixed Circuit — Equivalent Resistance
-![alt text](../../image-r1.png)
+
 ## Useful Definitions and Formulas
 
 ### 1. Equivalent Resistance
