@@ -1,5 +1,5 @@
 # Mixed Circuit — Equivalent Resistance
-
+![alt text](../../image-r1.png)
 ## Useful Definitions and Formulas
 
 ### 1. Equivalent Resistance
@@ -55,7 +55,7 @@ Important property:
 ---
 
 # Step-by-Step Solution
-![alt text](../../image-r1.png)
+![alt text](image-3.png)
 All resistors have resistance:
 
 $$
